@@ -1,0 +1,1 @@
+code a projrct and use git to manage teams , it should ne a game !
